@@ -1,0 +1,25 @@
+.cards {
+  display:flex;
+  align-items: center;
+  justify-content: space-between;
+}
+
+.card img {
+  height: 100px;
+}
+
+.card {
+  box-shadow: 0 0 15px rgba(0,0,0,0.6);
+  text-align: center;
+  width: 200px;
+  padding: 20px;
+  margin: 20px 50px 40px 50px;
+}
+
+ .card h3 {
+  color: #274855;
+}
+
+.card p {
+  color: #76857f
+}
