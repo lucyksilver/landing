@@ -2,6 +2,8 @@
   display:flex;
   align-items: center;
   justify-content: space-between;
+  margin-bottom: 100px;
+  margin-top: 80px;
 }
 
 .card img {
@@ -13,7 +15,6 @@
   text-align: center;
   width: 200px;
   padding: 20px;
-  margin: 20px 50px 40px 50px;
 }
 
  .card h3 {
@@ -23,3 +24,8 @@
 .card p {
   color: #76857f
 }
+
+.container h2 {
+   padding-top: 20px;
+}
+
